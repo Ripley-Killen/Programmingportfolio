@@ -9,6 +9,6 @@
 ### SpaceGame
 OOP graphical game using sound and images for a full user experience.
 
-![Gameplay](https://github.com/Ripley-Killen/Programmingportfolio/blob/main/images/SG1.png?raw=true)
+![Gameplay](https://github.com/Ripley-Killen/Programmingportfolio/blob/main/images/SG1.png?raw=true)(https://github.com/Ripley-Killen/Programmingportfolio/blob/main/images/SG2.png?raw=true)
 
 [Source Code]()
