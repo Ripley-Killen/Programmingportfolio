@@ -1,10 +1,22 @@
 # Ripley Killen's Programming Portfolio 2023-2024
 
+
 ## Tech Certifications
 
 ## Group Project
 
+### The Solomander Affair
+Choose your own adventrue story game with interactive storylines.
+![Gameplay]()
+[Source Code]()
+
 ## Individual Projects
+### Rat Czar
+OOP graphical game with images to allow users a full interactive experience.
+
+![]()
+
+[]()
 
 ### SpaceGame
 OOP graphical game using sound and images for a full user experience.
