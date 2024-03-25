@@ -14,9 +14,9 @@ Choose your own adventrue story game with interactive storylines.
 ### Rat Czar
 OOP graphical game with images to allow users a full interactive experience.
 
-![]()
+![Gameplay]()
 
-[]()
+[Source Code](https://github.com/Ripley-Killen/GameDeRipley.git)
 
 ### SpaceGame
 OOP graphical game using sound and images for a full user experience.
