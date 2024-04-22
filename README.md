@@ -9,7 +9,7 @@
 ### The Solomander Affair
 Choose your own adventrue story game with interactive storylines.
 ![Gameplay](https://github.com/Ripley-Killen/Programmingportfolio/blob/main/images/Solomander.png?raw=true)
-[Source Code](https://github.com/LiamTGay/Adventure-Story.git)
+[Link to group project repository](https://github.com/LiamTGay/Adventure-Story.git)
 
 ## Individual Projects
 ### Rat Czar
